@@ -6,4 +6,5 @@ Além de revisar conceitos importantes como estrutura HTML, estilização CSS e 
 Utilização de Figma para obter assets e informações de design
 Manipulação de imagens SVG
 Trabalhando com vídeos HTML5
-Animações e transições CSS
+Animações e transições CSS <br>
+Link para visualizaçâo do projeto oline: https://contagemregressivaccxp.netlify.app/
